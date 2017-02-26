@@ -1,0 +1,18 @@
+c:\users\евгений\documents\visual studio 2015\Projects\TriangleApp\TriangleApp\bin\Debug\TriangleApp.exe.config
+c:\users\евгений\documents\visual studio 2015\Projects\TriangleApp\TriangleApp\bin\Debug\TriangleApp.exe
+c:\users\евгений\documents\visual studio 2015\Projects\TriangleApp\TriangleApp\bin\Debug\TriangleApp.pdb
+c:\users\евгений\documents\visual studio 2015\Projects\TriangleApp\TriangleApp\obj\Debug\TriangleApp.csprojResolveAssemblyReference.cache
+c:\users\евгений\documents\visual studio 2015\Projects\TriangleApp\TriangleApp\obj\Debug\TriangleApp.exe
+c:\users\евгений\documents\visual studio 2015\Projects\TriangleApp\TriangleApp\obj\Debug\TriangleApp.pdb
+C:\Users\Артём\Desktop\TriangleApp\TriangleApp\bin\Debug\TriangleApp.exe.config
+C:\Users\Артём\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.exe
+C:\Users\Артём\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.pdb
+C:\Users\Артём\Desktop\TriangleApp\TriangleApp\bin\Debug\TriangleApp.exe
+C:\Users\Артём\Desktop\TriangleApp\TriangleApp\bin\Debug\TriangleApp.pdb
+C:\Users\Артём\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Triangl\TriangleApp\bin\Debug\TriangleApp.exe.config
+C:\Users\1\Documents\Triangl\TriangleApp\obj\Debug\TriangleApp.exe
+C:\Users\1\Documents\Triangl\TriangleApp\obj\Debug\TriangleApp.pdb
+C:\Users\1\Documents\Triangl\TriangleApp\bin\Debug\TriangleApp.exe
+C:\Users\1\Documents\Triangl\TriangleApp\bin\Debug\TriangleApp.pdb
+C:\Users\1\Documents\Triangl\TriangleApp\obj\Debug\TriangleApp.csprojResolveAssemblyReference.cache
